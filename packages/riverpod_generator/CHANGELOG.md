@@ -1,4 +1,12 @@
-## Unreleased patch
+## 2.4.0 - 2024-03-10
+
+- Adds `provider_name_prefix` and `provider_family_name_prefix` to `build.yaml`. (thanks to @ValentinVignal)
+
+## 2.3.11 - 2024-02-04
+
+- `riverpod_analyzer_utils` upgraded to `0.5.1`
+
+## 2.3.10 - 2024-02-03
 
 - Improved error handling if:
   - a Notifier has no default constructor
